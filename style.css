@@ -1,16 +1,26 @@
 body {
 	font-family: Calibri, "Segoe UI", Arial, sans-serif;
 }
+
 h1 {
 	text-align: center;
 }
+<<<<<<< HEAD
 .content {
 	margin: 0 auto;
 	width: 800px;
 	text-align: center;
 }
 .container {
+=======
+
+.content {
+>>>>>>> Timothy_Kim_feature1
 	margin: 0 auto;
 	width: 800px;
 	text-align: center;
+}
+
+.clickable {
+	cursor: hand;
 }
