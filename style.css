@@ -5,17 +5,14 @@ body {
 h1 {
 	text-align: center;
 }
-<<<<<<< HEAD
+
 .content {
 	margin: 0 auto;
 	width: 800px;
 	text-align: center;
 }
-.container {
-=======
 
-.content {
->>>>>>> Timothy_Kim_feature1
+.container {
 	margin: 0 auto;
 	width: 800px;
 	text-align: center;
